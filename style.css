@@ -1,0 +1,47 @@
+img{
+    width: 500px;
+    height:auto;
+    margin: 0 auto;
+}
+#nav-items{
+    background:rgb(115, 10, 167);
+}
+.list{
+    list-style: none;
+    display: inline-block;
+    font-family: "Helvetica Neue",Helvetica;
+    font-size: 20px;
+    margin-left: 20px;
+    padding: 10px;
+  
+   
+}
+a{
+    text-decoration: none;
+    margin-left: 10px;
+    color: rgb(254, 254, 254);
+}
+a:hover{
+    color:rgb(242, 242, 8);
+}
+.form-control{
+    padding:5px;
+
+}
+.form-submit{
+    padding:10px;
+    background:blue;
+    color: white;
+    border:none;
+    outline:none;
+    border-radius: 20px;
+    width:100px;
+    cursor: pointer;
+}
+.footer{
+    background:blue;
+    padding:5px;
+    color: white;
+    text-align:center;
+    margin-top: 20px;
+}
